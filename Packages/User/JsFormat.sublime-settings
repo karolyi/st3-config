@@ -1,5 +1,5 @@
 {
-    "wrap_line_length": 1000, // Foolproof for now, change later
+    "wrap_line_length": 92, // Foolproof for now, change later
     "brace_style": "collapse",
     "jslint_happy": true,
     "format_on_save": true,

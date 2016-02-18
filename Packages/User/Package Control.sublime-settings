@@ -17,7 +17,7 @@
 		"Git",
 		"HexViewer",
 		"isort",
-		"JsFormat",
+		"JSCS-Formatter",
 		"JSHint Gutter",
 		"LESS",
 		"LiveReload",
