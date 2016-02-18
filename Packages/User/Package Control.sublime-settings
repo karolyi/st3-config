@@ -17,8 +17,6 @@
 		"Git",
 		"HexViewer",
 		"isort",
-		"JSCS-Formatter",
-		"JSHint Gutter",
 		"LESS",
 		"LiveReload",
 		"Material Theme",
@@ -29,6 +27,8 @@
 		"Polymer & Web Component Snippets",
 		"Sass",
 		"SassBeautify",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"tern_for_sublime",
 		"Theme - Soda",
 		"TrailingSpaces"
