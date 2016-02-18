@@ -10,9 +10,7 @@
             "eslint": {
                 "@disable": false,
                 "args": [],
-                "excludes": [
-                    "*.html"
-                ]
+                "excludes": []
             }
         },
         "mark_style": "outline",
