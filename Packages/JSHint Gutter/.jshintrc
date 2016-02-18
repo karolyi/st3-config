@@ -10,7 +10,6 @@
   "browser": true,
   "esnext": true,
   "globals": {},
-  "globalstrict": true,
   "eqeqeq": true,
   "quotmark": true,
   "strict": "global",
