@@ -13,6 +13,7 @@
   "globalstrict": true,
   "eqeqeq": true,
   "quotmark": true,
+  "strict": "global",
   "undef": true,
   "unused": true
 }
