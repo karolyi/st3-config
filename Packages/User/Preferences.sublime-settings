@@ -11,7 +11,7 @@
 	"font_face": "Roboto Mono Light",
 	"save_on_focus_lost": true,
 	"highlight_modified_tabs": true,
-	"auto_complete_commit_on_tab": true,
+	"auto_complete_commit_on_tab": false,
 	"font_options":
 	[
 		"subpixel_antialias"
