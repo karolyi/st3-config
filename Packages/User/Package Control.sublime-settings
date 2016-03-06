@@ -7,6 +7,7 @@
 	[
 		"Anaconda",
 		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
 		"Case Conversion",
 		"CodeComplice",
@@ -19,7 +20,6 @@
 		"Git",
 		"HexViewer",
 		"isort",
-		"JSX",
 		"LESS",
 		"LiveReload",
 		"Material Theme",

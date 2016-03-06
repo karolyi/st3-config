@@ -48,5 +48,15 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": true,
 	"wide_caret": true,
-	"word_wrap": true
+	"word_wrap": true,
+    "auto_complete_triggers": [
+        {
+            "selector": "text.html",
+            "characters": "<"
+        },
+        {
+            "selector": "source.js",
+            "characters": "."
+        }
+    ]
 }

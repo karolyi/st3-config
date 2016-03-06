@@ -1,5 +1,0 @@
-{
-    "tab_size": 2,
-    "translate_tabs_to_spaces": true,
-    "auto_complete_triggers": [ {"selector": "text.html", "characters": "<"}, {"selector": "source.js", "characters": "."} ]
-}
