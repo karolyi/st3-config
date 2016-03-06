@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"Babel",
 		"BracketHighlighter",
 		"Case Conversion",
 		"CodeComplice",
@@ -13,10 +14,12 @@
 		"Djaneiro",
 		"DocBlockr",
 		"EditorConfig",
+		"ES6-Toolkit",
 		"Fix Mac Path",
 		"Git",
 		"HexViewer",
 		"isort",
+		"JSX",
 		"LESS",
 		"LiveReload",
 		"Material Theme",
