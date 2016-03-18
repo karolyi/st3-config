@@ -35,6 +35,7 @@
             "html (rails)": "html",
             "html 5": "html",
             "javascript (babel)": "javascript",
+            "tag": "javascript",
             "magicpython": "python",
             "php": "html",
             "python django": "python",
