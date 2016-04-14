@@ -35,11 +35,11 @@
             "html (rails)": "html",
             "html 5": "html",
             "javascript (babel)": "javascript",
-            "tag": "javascript",
             "magicpython": "python",
             "php": "html",
             "python django": "python",
-            "pythonimproved": "python"
+            "pythonimproved": "python",
+            "tag": "javascript"
         },
         "warning_color": "DDB700",
         "wrap_find": true
