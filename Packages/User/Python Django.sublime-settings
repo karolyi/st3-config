@@ -1,4 +1,9 @@
 {
     "indent_to_bracket": false,
-    "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}]
+    "auto_complete_triggers": [
+        {
+            "selector": "source.python - string - comment - constant.numeric",
+            "characters": "."
+        }
+    ]
 }
