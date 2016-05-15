@@ -8,5 +8,7 @@
     // "pep8_max_line_length": 79,
     // "suppress_word_completions": true,
     // "suppress_explicit_completions": true,
+    // "jsonserver_debug": true,
+    // "jsonserver_debug_port": 9999,
     "auto_formatting": true
 }
