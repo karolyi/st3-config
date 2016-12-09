@@ -2,4 +2,7 @@
     "codeintel_syntax_map": {
         "Python Django": "Python3"
     },
+    "codeintel_live_disabled_languages": [
+        "Python3", "Python"
+    ]
 }
