@@ -10,6 +10,8 @@
     // "suppress_explicit_completions": true,
     // "jsonserver_debug": true,
     // "jsonserver_debug_port": 9999,
+    // "display_signatures": false,
+    "auto_formatting_timeout": 2,
     "auto_formatting": true,
     "aggressive": 0
 }
