@@ -1,6 +1,8 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": false,
+	"material_theme_accent_red": true,
+	"material_theme_big_fileicons": true,
 	"auto_complete_triggers":
 	[
 		{
