@@ -4,5 +4,6 @@
     },
     "codeintel_live_disabled_languages": [
         "Python3", "Python"
-    ]
+    ],
+    "codeintel_tooltips": "panel",
 }

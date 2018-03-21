@@ -30,6 +30,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Fix Mac Path",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -45,7 +46,7 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"open_files_in_new_window": false,
-	"overlay_scroll_bars": "enabled",
+	"overlay_scroll_bars": "disabled",
 	"rulers":
 	[
 		72,

@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Fix Mac Path"
 	],
 	"installed_packages":
 	[
@@ -31,9 +32,10 @@
 		"Polymer & Web Component Snippets",
 		"Sass",
 		"SassBeautify",
+		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"tern_for_sublime",
 		"Theme - Soda",
 		"TrailingSpaces"
