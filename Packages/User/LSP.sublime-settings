@@ -1,18 +1,26 @@
-// Settings in here override those in "LSP/LSP.sublime-settings",
-
-
 {
-    "clients": {
-        "pyls": {
-            "settings": {
-                "pyls": {
-                    "plugins": {
-                        "pyflakes": {
-                            "enabled": false
-                        }
-                    }
-                }
-            }
-        }
-    }
+	"clients":
+	{
+		"eslint":
+		{
+			"enabled": true
+		},
+		"pyls":
+		{
+			"enabled": true,
+			"settings":
+			{
+				"pyls":
+				{
+					"plugins":
+					{
+						"pyflakes":
+						{
+							"enabled": false
+						}
+					}
+				}
+			}
+		}
+	}
 }

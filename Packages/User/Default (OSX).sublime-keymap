@@ -1,12 +1,15 @@
 [
   {
     "keys": [
-      "super+shift+r"
+      "ctrl+alt+g"
     ],
-    "command": "reindent",
-    "args": {
-      "single_line": false
-    }
+    "command": "lsp_symbol_definition",
+  },
+  {
+    "keys": [
+      "ctrl+alt+r"
+    ],
+    "command": "lsp_format_document",
   },
   {
     "keys": ["enter"],
