@@ -17,6 +17,8 @@
 		"DocBlockr",
 		"EditorConfig",
 		"ES6-Toolkit",
+		"ESLint",
+		"ESLint-Formatter",
 		"Fix Mac Path",
 		"Git",
 		"HexViewer",
