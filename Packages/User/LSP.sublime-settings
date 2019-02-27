@@ -1,10 +1,6 @@
 {
 	"clients":
 	{
-		"eslint":
-		{
-			"enabled": true
-		},
 		"pyls":
 		{
 			"enabled": true,
@@ -22,5 +18,5 @@
 				}
 			}
 		}
-	}
+	},
 }
