@@ -23,7 +23,7 @@
 		}
 	},
     "complete_using_text_edit": true,
-    "auto_show_diagnostics_panel": true,
+    "auto_show_diagnostics_panel": false,
     "log_debug": true,
     "show_code_actions_bulb": true,
 
