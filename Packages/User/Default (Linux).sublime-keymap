@@ -3,8 +3,4 @@
         "keys": ["ctrl+alt+r"],
         "command": "lsp_format_document"
     },
-    {
-        "keys": ["ctrl+alt+g"],
-        "command": "lsp_symbol_definition"
-    }
 ]
