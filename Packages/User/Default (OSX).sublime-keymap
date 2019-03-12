@@ -1,17 +1,5 @@
 [
   {
-    "keys": [
-      "ctrl+alt+g"
-    ],
-    "command": "lsp_symbol_definition",
-  },
-  {
-    "keys": [
-      "ctrl+alt+r"
-    ],
-    "command": "lsp_format_document",
-  },
-  {
     "keys": ["enter"],
     "command": "run_macro_file",
     "args": {

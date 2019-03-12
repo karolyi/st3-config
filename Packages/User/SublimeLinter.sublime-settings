@@ -1,0 +1,18 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        "eslint": {
+            "env": {"PATH":"/usr/local/bin/"}
+        },
+        "sass": {
+            "env": {"PATH":"/usr/local/bin/"}
+        }
+    },
+    "paths": {
+        "linux": [],
+        "osx": [
+            "/usr/local/bin/",
+        ],
+        "windows": []
+    }
+}
