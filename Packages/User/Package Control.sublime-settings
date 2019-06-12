@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"Anaconda",
 		"Babel",
 		"Babel Snippets",
 		"BracketHighlighter",
@@ -25,6 +24,7 @@
 		"Kivy Language",
 		"LESS",
 		"LiveReload",
+		"LSP",
 		"Material Theme",
 		"Monokai Extended",
 		"Package Control",

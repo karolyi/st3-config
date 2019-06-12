@@ -12,10 +12,13 @@
 					{
 						"pyflakes":
 						{
-							"enabled": false
+							"enabled": true,
 						},
 						"pycodestyle": {
-							"enabled": false
+							"enabled": true
+						},
+						"autopep8": {
+							"enabled": true,
 						}
 					}
 				}
