@@ -37,5 +37,7 @@
     "log_stderr": true,
 
     // Show full JSON-RPC responses in the console
-    "log_payloads": true
+    "log_payloads": true,
+    "complete_all_chars": true,
+    "only_show_lsp_completions": false
 }
