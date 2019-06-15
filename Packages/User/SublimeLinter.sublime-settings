@@ -2,7 +2,7 @@
 {
     "linters": {
         "eslint": {
-            "env": {"PATH":"/usr/local/bin/"}
+            "env": {"PATH":"/usr/local/bin/:/usr/bin/"}
         },
         "sass": {
             "env": {"PATH":"/usr/local/bin/"}
