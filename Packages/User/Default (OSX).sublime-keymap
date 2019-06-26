@@ -1,4 +1,8 @@
 [
+  // Go To Definition
+  {"keys": ["ctrl+alt+g"], "command": "lsp_symbol_definition"},
+  // Format Document
+  {"keys": ["ctrl+alt+r"], "command": "lsp_format_document"},
   {
     "keys": ["enter"],
     "command": "run_macro_file",
