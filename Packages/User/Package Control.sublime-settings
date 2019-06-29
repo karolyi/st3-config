@@ -21,6 +21,7 @@
 		"Fix Mac Path",
 		"Git",
 		"HexViewer",
+		"JavaScriptNext - ES6 Syntax",
 		"Kivy Language",
 		"LESS",
 		"LiveReload",
@@ -37,6 +38,7 @@
 		"sublime-text-isort-plugin",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
+		"tern_for_sublime",
 		"Theme - Soda",
 		"TrailingSpaces"
 	],
