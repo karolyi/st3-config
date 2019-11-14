@@ -65,5 +65,6 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": true,
 	"wide_caret": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"trim_trailing_white_space_on_save": true
 }

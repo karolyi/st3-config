@@ -39,8 +39,7 @@
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"tern_for_sublime",
-		"Theme - Soda",
-		"TrailingSpaces"
+		"Theme - Soda"
 	],
 	"repositories":
 	[
