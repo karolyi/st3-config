@@ -20,7 +20,7 @@
 	"enable_telemetry": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_face": "Fira Code",
+	"font_face": "JetBrains Mono",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -65,6 +65,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": true,
 	"wide_caret": true,
-	"word_wrap": true,
-	"trim_trailing_white_space_on_save": true
+	"word_wrap": true
 }
