@@ -30,7 +30,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Fix Mac Path",
 		"Vintage"
 	],
 	"indent_guide_options":
