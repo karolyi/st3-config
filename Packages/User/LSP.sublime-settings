@@ -4,7 +4,13 @@
 	{
 		"lsp-tsserver":
 		{
-			"enabled": false
+			"enabled": true,
+			"command": ["lsp-tsserver", "--stdio"],
+			"languages": [{
+				"scopes": ["source.js"],
+				"syntaxes": ["Javascript", "JavaScript Next", "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"],
+				"languageId": "javascript"
+			}]
 		},
 		"pyls":
 		{

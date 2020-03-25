@@ -1,0 +1,18 @@
+// Settings in here override those in "LSP-html/LSP-html.sublime-settings",
+
+{
+    "languages": [
+        {
+            "languageId": "html",
+            "scopes": [
+                "text.html.basic",
+                "text.html.django",
+            ],
+            "syntaxes": [
+                "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+                "Packages/HTML/HTML.sublime-syntax",
+                "Packages/PHP/PHP.sublime-syntax"
+            ]
+        }
+    ]
+}
