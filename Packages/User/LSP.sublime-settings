@@ -2,16 +2,6 @@
 	"auto_show_diagnostics_panel": false,
 	"clients":
 	{
-		"lsp-tsserver":
-		{
-			"enabled": true,
-			"command": ["lsp-tsserver", "--stdio"],
-			"languages": [{
-				"scopes": ["source.js"],
-				"syntaxes": ["Javascript", "JavaScript Next", "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"],
-				"languageId": "javascript"
-			}]
-		},
 		"pyls":
 		{
 			"enabled": true,
