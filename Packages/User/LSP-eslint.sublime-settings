@@ -1,14 +1,20 @@
-// Settings in here override those in "LSP-eslint/LSP-eslint.sublime-settings",
-
 {
-    "client": {
-        "enabled": true,
-    	"languages": [
-    		{
-                "languageId": "eslint",
-    			"scopes": ["source.js", "text.html.vue"],
-    			"syntaxes": ["Javascript", "JavaScript Next", "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"],
-    		}
-    	]
-    }
+	"enabled": true,
+	"languages":
+	[
+		{
+			"languageId": "eslint",
+			"scopes":
+			[
+				"source.js",
+				"text.html.vue"
+			],
+			"syntaxes":
+			[
+				"Javascript",
+				"JavaScript Next",
+				"Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+			]
+		}
+	]
 }
